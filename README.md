@@ -1,9 +1,10 @@
---Scream is an soundscape installation of hearing aids.--
+# Scream 
 
-A rough sketch on how the instalation is gonna look:
+Scream is a soundscape installation of hearing aids.
 
 ![alt tag](https://github.com/DeRaafMedia/ProjectScream-concept/blob/master/bin/data/Scream.png)
 
+(A rough sketch on how the instalation is gonna look)
 
 A hearing aid is a device that is meant to improve (maybe augment) the hearing ability of a human being.
 
