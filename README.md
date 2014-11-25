@@ -1,5 +1,10 @@
 Scream is an soundscape installation of hearing aids.
 
+A rough sketch on how the instalation is gonna look:
+
+![alt tag](https://github.com/DeRaafMedia/ProjectScream-concept/blob/master/bin/data/Scream.png)
+
+
 A hearing aid is a device that is meant to improve (maybe augment) the hearing ability of a human being.
 
 One property these devices have is that when there is no human attached (or improperly attached) but are active, they begin to "scream" (called a feedback loop). I make use of this property in this installation.
@@ -10,10 +15,9 @@ Depending on how much and which hearing aids are switched on the installation it
 
 I'm still thinking how I can give the viewer control on which hearing aids are on or off (a webcam that sees the position of the viewer inside the cube, sensors, ????)
 
-A rough sketch on how the instalation is gonna look:
+The hearing aids that I want to use are cheaply and readily available in China:
 
-![alt tag](https://github.com/DeRaafMedia/ProjectScream-concept/blob/master/bin/data/Scream.png)
-
+[Link -->](https://github.com/DeRaafMedia/ProjectScream-concept/blob/master/bin/data/materials/2014%20Behind%20The%20Ear%20Hearing%20Aids%20Power%20Bte%20Amplifiers%20Hear%20Aids%20:hearing%20Aid%20-%20Buy%20Behind%20The%20Ear%20Hearing%20Aids%2CPower%20Hear%20Aids%2CBte%20Amplifiers%20Hearing%20Aid%20Product%20on%20Alibaba.com.pdf)
 
 A first draft of the electronic controls schematic:
 
