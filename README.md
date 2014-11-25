@@ -12,7 +12,7 @@ One property these devices have is that when there is no human attached (or impr
 
 The installation contains 512 (or more) hearing aids. Each one can be turned on or off individually. The hearing aids are assembled as 48 columns of 8 hearing aids strung together, placed in such a way that they form a cube. The columns need to have enough space in between them so that a viewer can freely walk between them.
 
-Depending on how much and which hearing aids are switched on the installation it is gonna form a spatial sound landscape of whistles, squills and screams. This "feedback" behaviour of the hearing aids can be "steered" (in volume, pitch and or timbre) by the viewer by talking, whistling, screaming, etc, etc.
+Depending on how much and which hearing aids are switched on inside the installation, it is gonna form a spatial sound landscape of whistles, squills and screams. This "feedback" behaviour of the hearing aids can be "steered" (in volume, pitch and or timbre) by the viewer by talking, whistling, screaming, etc, etc.
 
 I'm still thinking how I can give the viewer control on which hearing aids are on or off (a webcam that sees the position of the viewer inside the cube, sensors, ????)
 
@@ -23,3 +23,5 @@ The hearing aids that I want to use are cheaply and readily available in China:
 A first draft of the electronic controls schematic:
 
 ![alt tag](https://github.com/DeRaafMedia/ProjectScream-concept/blob/master/bin/data/schematics/Schematic.png)
+
+Is this installation a metaphore for the inability of a large part of humanity to only listen to a story without having to respond immediately? Or is it a metaphore for what happens to a story when it is being told to a piece of technology when no human is "attached" to that technology?
