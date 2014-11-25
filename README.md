@@ -12,5 +12,9 @@ I'm still thinking how I can give the viewer control on which hearing aids are o
 
 A rough sketch on how the instalation is gonna look:
 
+[alt tag](https://github.com/DeRaafMedia/ProjectScream-concept/blob/master/bin/data/Scream.png)
+
 
 A first draft of the electronic controls schematic:
+
+[alt tag](https://github.com/DeRaafMedia/ProjectScream-concept/blob/master/bin/data/schematics/Schematic.png)
